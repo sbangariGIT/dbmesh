@@ -1,0 +1,10 @@
+databases:
+  postgres:
+    name: dbmesh_main
+    type: postgres
+    host: localhost
+    port: 5432
+    username: postgres
+    password: password123
+    database: dbmesh_main
+
