@@ -1,4 +1,4 @@
-# DB Mesh - WIP
+# MCP Mesh - WIP
 ![DB Mesh Architecture](assets/arch.png)
 
 A middleware solution designed to seamlessly connect Large Language Model (LLM) applications and AI Agents with databases using the Model Context Protocol. DB Mesh acts as an intelligent intermediary layer that facilitates secure and efficient database interactions while maintaining context awareness. Key features include:
